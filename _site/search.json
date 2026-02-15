@@ -1,0 +1,652 @@
+[
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+  },
+  {
+    "objectID": "syllabus.html#course-description",
+    "href": "syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "",
+    "text": "An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills."
+  },
+  {
+    "objectID": "syllabus.html#learning-objectives",
+    "href": "syllabus.html#learning-objectives",
+    "title": "Syllabus",
+    "section": "Learning objectives",
+    "text": "Learning objectives\nBy the end of this course, you will be able to:\n\nUnderstand the logic of statistical inference and hypothesis testing\nSelect appropriate statistical analyses for different research designs\nConduct statistical tests using R\nInterpret and report results in APA format\nCritically evaluate statistical claims in psychological research"
+  },
+  {
+    "objectID": "syllabus.html#course-materials",
+    "href": "syllabus.html#course-materials",
+    "title": "Syllabus",
+    "section": "Course materials",
+    "text": "Course materials\n\nRequired textbook\nTBD\n\n\nSoftware\nWe will use R and RStudio for all statistical analyses. Both are free."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\n\n\n\nComponent\nWeight\n\n\n\n\nProblem sets\n40%\n\n\nMidterm exam\n25%\n\n\nFinal exam\n25%\n\n\nParticipation\n10%"
+  },
+  {
+    "objectID": "syllabus.html#course-policies",
+    "href": "syllabus.html#course-policies",
+    "title": "Syllabus",
+    "section": "Course policies",
+    "text": "Course policies\n\nLate work\nTBD\n\n\nAcademic integrity\nTBD\n\n\nAccommodations\nTBD"
+  },
+  {
+    "objectID": "resource/style-guide.html",
+    "href": "resource/style-guide.html",
+    "title": "R style guide",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Resources",
+      "R style guide"
+    ]
+  },
+  {
+    "objectID": "resource/style-guide.html#general-principles",
+    "href": "resource/style-guide.html#general-principles",
+    "title": "R style guide",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Resources",
+      "R style guide"
+    ]
+  },
+  {
+    "objectID": "resource/index.html",
+    "href": "resource/index.html",
+    "title": "Resources overview",
+    "section": "",
+    "text": "These pages contain helpful resources and guides for the course.\n\nR basics: Getting started with R and RStudio\nStyle guide: How to write clean, readable R code",
+    "crumbs": [
+      "Resources",
+      "Resources overview"
+    ]
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Content overview",
+    "section": "",
+    "text": "Each week has a content page with readings, lecture slides, and recorded lectures. Work through the content page before coming to class.",
+    "crumbs": [
+      "Content",
+      "Overview",
+      "Content overview"
+    ]
+  },
+  {
+    "objectID": "content/08-content.html",
+    "href": "content/08-content.html",
+    "title": "Correlation",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "8: Correlation"
+    ]
+  },
+  {
+    "objectID": "content/08-content.html#readings",
+    "href": "content/08-content.html#readings",
+    "title": "Correlation",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "8: Correlation"
+    ]
+  },
+  {
+    "objectID": "content/08-content.html#slides",
+    "href": "content/08-content.html#slides",
+    "title": "Correlation",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "8: Correlation"
+    ]
+  },
+  {
+    "objectID": "content/06-content.html",
+    "href": "content/06-content.html",
+    "title": "t-tests",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "6: t-tests"
+    ]
+  },
+  {
+    "objectID": "content/06-content.html#readings",
+    "href": "content/06-content.html#readings",
+    "title": "t-tests",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "6: t-tests"
+    ]
+  },
+  {
+    "objectID": "content/06-content.html#slides",
+    "href": "content/06-content.html#slides",
+    "title": "t-tests",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "6: t-tests"
+    ]
+  },
+  {
+    "objectID": "content/04-content.html",
+    "href": "content/04-content.html",
+    "title": "Sampling distributions",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "4: Sampling distributions"
+    ]
+  },
+  {
+    "objectID": "content/04-content.html#readings",
+    "href": "content/04-content.html#readings",
+    "title": "Sampling distributions",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "4: Sampling distributions"
+    ]
+  },
+  {
+    "objectID": "content/04-content.html#slides",
+    "href": "content/04-content.html#slides",
+    "title": "Sampling distributions",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "4: Sampling distributions"
+    ]
+  },
+  {
+    "objectID": "content/02-content.html",
+    "href": "content/02-content.html",
+    "title": "Describing data",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "2: Describing data"
+    ]
+  },
+  {
+    "objectID": "content/02-content.html#readings",
+    "href": "content/02-content.html#readings",
+    "title": "Describing data",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "2: Describing data"
+    ]
+  },
+  {
+    "objectID": "content/02-content.html#slides",
+    "href": "content/02-content.html#slides",
+    "title": "Describing data",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "2: Describing data"
+    ]
+  },
+  {
+    "objectID": "assignment/index.html",
+    "href": "assignment/index.html",
+    "title": "Assignments overview",
+    "section": "",
+    "text": "Problem sets are due by 11:59 PM on the date listed in the schedule. Submit your work as an R Markdown or Quarto document.\n\n\n\nAssignment\nDue date\n\n\n\n\nProblem set 1\nTBD\n\n\nProblem set 2\nTBD\n\n\nProblem set 3\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "assignment/index.html#problem-sets",
+    "href": "assignment/index.html#problem-sets",
+    "title": "Assignments overview",
+    "section": "",
+    "text": "Problem sets are due by 11:59 PM on the date listed in the schedule. Submit your work as an R Markdown or Quarto document.\n\n\n\nAssignment\nDue date\n\n\n\n\nProblem set 1\nTBD\n\n\nProblem set 2\nTBD\n\n\nProblem set 3\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "assignment/index.html#exams",
+    "href": "assignment/index.html#exams",
+    "title": "Assignments overview",
+    "section": "Exams",
+    "text": "Exams\n\nMidterm exam: TBD\nFinal exam: TBD",
+    "crumbs": [
+      "Assignments",
+      "Overview",
+      "Assignments overview"
+    ]
+  },
+  {
+    "objectID": "assignment/02-problem-set.html",
+    "href": "assignment/02-problem-set.html",
+    "title": "Problem set 2",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 2"
+    ]
+  },
+  {
+    "objectID": "assignment/02-problem-set.html#instructions",
+    "href": "assignment/02-problem-set.html#instructions",
+    "title": "Problem set 2",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 2"
+    ]
+  },
+  {
+    "objectID": "assignment/02-problem-set.html#tasks",
+    "href": "assignment/02-problem-set.html#tasks",
+    "title": "Problem set 2",
+    "section": "Tasks",
+    "text": "Tasks\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 2"
+    ]
+  },
+  {
+    "objectID": "assignment/02-problem-set.html#turning-it-in",
+    "href": "assignment/02-problem-set.html#turning-it-in",
+    "title": "Problem set 2",
+    "section": "Turning it in",
+    "text": "Turning it in\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 2"
+    ]
+  },
+  {
+    "objectID": "assignment/01-problem-set.html",
+    "href": "assignment/01-problem-set.html",
+    "title": "Problem set 1",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/01-problem-set.html#instructions",
+    "href": "assignment/01-problem-set.html#instructions",
+    "title": "Problem set 1",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/01-problem-set.html#tasks",
+    "href": "assignment/01-problem-set.html#tasks",
+    "title": "Problem set 1",
+    "section": "Tasks",
+    "text": "Tasks\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/01-problem-set.html#turning-it-in",
+    "href": "assignment/01-problem-set.html#turning-it-in",
+    "title": "Problem set 1",
+    "section": "Turning it in",
+    "text": "Turning it in\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 1"
+    ]
+  },
+  {
+    "objectID": "assignment/03-problem-set.html",
+    "href": "assignment/03-problem-set.html",
+    "title": "Problem set 3",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 3"
+    ]
+  },
+  {
+    "objectID": "assignment/03-problem-set.html#instructions",
+    "href": "assignment/03-problem-set.html#instructions",
+    "title": "Problem set 3",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 3"
+    ]
+  },
+  {
+    "objectID": "assignment/03-problem-set.html#tasks",
+    "href": "assignment/03-problem-set.html#tasks",
+    "title": "Problem set 3",
+    "section": "Tasks",
+    "text": "Tasks\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 3"
+    ]
+  },
+  {
+    "objectID": "assignment/03-problem-set.html#turning-it-in",
+    "href": "assignment/03-problem-set.html#turning-it-in",
+    "title": "Problem set 3",
+    "section": "Turning it in",
+    "text": "Turning it in\nTBD",
+    "crumbs": [
+      "Assignments",
+      "Problem sets",
+      "Problem set 3"
+    ]
+  },
+  {
+    "objectID": "content/01-content.html",
+    "href": "content/01-content.html",
+    "title": "Introduction to statistics",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "1: Introduction to statistics"
+    ]
+  },
+  {
+    "objectID": "content/01-content.html#readings",
+    "href": "content/01-content.html#readings",
+    "title": "Introduction to statistics",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "1: Introduction to statistics"
+    ]
+  },
+  {
+    "objectID": "content/01-content.html#slides",
+    "href": "content/01-content.html#slides",
+    "title": "Introduction to statistics",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "1: Introduction to statistics"
+    ]
+  },
+  {
+    "objectID": "content/01-content.html#videos",
+    "href": "content/01-content.html#videos",
+    "title": "Introduction to statistics",
+    "section": "Videos",
+    "text": "Videos\nTBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "1: Introduction to statistics"
+    ]
+  },
+  {
+    "objectID": "content/03-content.html",
+    "href": "content/03-content.html",
+    "title": "Probability foundations",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "3: Probability foundations"
+    ]
+  },
+  {
+    "objectID": "content/03-content.html#readings",
+    "href": "content/03-content.html#readings",
+    "title": "Probability foundations",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "3: Probability foundations"
+    ]
+  },
+  {
+    "objectID": "content/03-content.html#slides",
+    "href": "content/03-content.html#slides",
+    "title": "Probability foundations",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Foundations",
+      "3: Probability foundations"
+    ]
+  },
+  {
+    "objectID": "content/05-content.html",
+    "href": "content/05-content.html",
+    "title": "Hypothesis testing",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "5: Hypothesis testing"
+    ]
+  },
+  {
+    "objectID": "content/05-content.html#readings",
+    "href": "content/05-content.html#readings",
+    "title": "Hypothesis testing",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "5: Hypothesis testing"
+    ]
+  },
+  {
+    "objectID": "content/05-content.html#slides",
+    "href": "content/05-content.html#slides",
+    "title": "Hypothesis testing",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Inference",
+      "5: Hypothesis testing"
+    ]
+  },
+  {
+    "objectID": "content/07-content.html",
+    "href": "content/07-content.html",
+    "title": "ANOVA",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "7: ANOVA"
+    ]
+  },
+  {
+    "objectID": "content/07-content.html#readings",
+    "href": "content/07-content.html#readings",
+    "title": "ANOVA",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "7: ANOVA"
+    ]
+  },
+  {
+    "objectID": "content/07-content.html#slides",
+    "href": "content/07-content.html#slides",
+    "title": "ANOVA",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "7: ANOVA"
+    ]
+  },
+  {
+    "objectID": "content/09-content.html",
+    "href": "content/09-content.html",
+    "title": "Regression",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "9: Regression"
+    ]
+  },
+  {
+    "objectID": "content/09-content.html#readings",
+    "href": "content/09-content.html#readings",
+    "title": "Regression",
+    "section": "",
+    "text": "TBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "9: Regression"
+    ]
+  },
+  {
+    "objectID": "content/09-content.html#slides",
+    "href": "content/09-content.html#slides",
+    "title": "Regression",
+    "section": "Slides",
+    "text": "Slides\nTBD",
+    "crumbs": [
+      "Content",
+      "Modeling",
+      "9: Regression"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Methods in Psychology",
+    "section": "",
+    "text": "Instructor\n\n Dr. Serena DeStefani\n TBD\n serenadestefani@gmail.com\n\n\n\nCourse details\n\n TBD\n TBD\n TBD\n TBD\n\n\n\nContacting me\nE-mail is the best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours on weekdays."
+  },
+  {
+    "objectID": "resource/r-basics.html",
+    "href": "resource/r-basics.html",
+    "title": "R basics",
+    "section": "",
+    "text": "Install R from CRAN\nInstall RStudio from Posit",
+    "crumbs": [
+      "Resources",
+      "R basics"
+    ]
+  },
+  {
+    "objectID": "resource/r-basics.html#installing-r-and-rstudio",
+    "href": "resource/r-basics.html#installing-r-and-rstudio",
+    "title": "R basics",
+    "section": "",
+    "text": "Install R from CRAN\nInstall RStudio from Posit",
+    "crumbs": [
+      "Resources",
+      "R basics"
+    ]
+  },
+  {
+    "objectID": "resource/r-basics.html#getting-started",
+    "href": "resource/r-basics.html#getting-started",
+    "title": "R basics",
+    "section": "Getting started",
+    "text": "Getting started\nTBD",
+    "crumbs": [
+      "Resources",
+      "R basics"
+    ]
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Here is the roadmap for the semester. Each week has a content page with readings and slides and an assignment page with problem sets.\n\n\n\nWeek\nDate\nTopic\nContent\nAssignment\n\n\n\n\n1\nTBD\nIntroduction to statistics\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n2\nTBD\nDescribing data\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n3\nTBD\nProbability foundations\n{{&lt; fa book-open-reader &gt;}}\n{{&lt; fa pen-ruler &gt;}}\n\n\n4\nTBD\nSampling distributions\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n5\nTBD\nHypothesis testing\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n6\nTBD\nt-tests\n{{&lt; fa book-open-reader &gt;}}\n{{&lt; fa pen-ruler &gt;}}\n\n\n7\nTBD\nANOVA\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n8\nTBD\nCorrelation\n{{&lt; fa book-open-reader &gt;}}\n\n\n\n9\nTBD\nRegression\n{{&lt; fa book-open-reader &gt;}}\n{{&lt; fa pen-ruler &gt;}}"
+  }
+]

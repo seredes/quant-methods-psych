@@ -1,0 +1,12 @@
+---
+title: "R basics"
+---
+
+## Installing R and RStudio
+
+1. Install R from [CRAN](https://cran.r-project.org/)
+2. Install RStudio from [Posit](https://posit.co/download/rstudio-desktop/)
+
+## Getting started
+
+TBD

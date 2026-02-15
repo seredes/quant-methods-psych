@@ -1,0 +1,28 @@
+author: Serena DeStefani
+
+instructor:
+  name: Dr. Serena DeStefani
+  name_no_title: Serena DeStefani
+  email: serenadestefani@gmail.com
+  url: "https://seredes.github.io"
+  github: seredes
+  office: "TBD"
+  contact_policy: >-
+    E-mail is the best way to get in contact with me. I will try to respond
+    to all course-related e-mails within 24 hours on weekdays.
+  appointment_url: "#"
+
+course:
+  number: "TBD"
+  semester: "Fall 2026"
+  days: "TBD"
+  time: "TBD"
+  location: "TBD"
+  dates: "TBD"
+  github: "https://github.com/seredes/quant-methods-psych"
+  url: "https://seredes.github.io/quant-methods-psych"
+  copyright_year: "2026"
+
+university:
+  name: The Ohio State University
+  url: "https://www.osu.edu"

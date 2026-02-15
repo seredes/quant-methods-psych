@@ -1,0 +1,62 @@
+{
+  "assignment/01-problem-set.qmd": {
+    "01-problem-set.html": "969c4c07"
+  },
+  "assignment/02-problem-set.qmd": {
+    "02-problem-set.html": "47d3b414"
+  },
+  "assignment/03-problem-set.qmd": {
+    "03-problem-set.html": "1a1c37fd"
+  },
+  "assignment/index.qmd": {
+    "index.html": "1c532c13"
+  },
+  "content/01-content.qmd": {
+    "01-content.html": "5d6c69ec"
+  },
+  "content/02-content.qmd": {
+    "02-content.html": "d15cc1fc"
+  },
+  "content/03-content.qmd": {
+    "03-content.html": "adb511a6"
+  },
+  "content/04-content.qmd": {
+    "04-content.html": "f98d4d30"
+  },
+  "content/05-content.qmd": {
+    "05-content.html": "ed408dc8"
+  },
+  "content/06-content.qmd": {
+    "06-content.html": "f361e389"
+  },
+  "content/07-content.qmd": {
+    "07-content.html": "fcb2ece0"
+  },
+  "content/08-content.qmd": {
+    "08-content.html": "3d897acf"
+  },
+  "content/09-content.qmd": {
+    "09-content.html": "972caf3c"
+  },
+  "content/index.qmd": {
+    "index.html": "9132838a"
+  },
+  "index.qmd": {
+    "index.html": "af2efd42"
+  },
+  "resource/index.qmd": {
+    "index.html": "9cf8c24c"
+  },
+  "resource/r-basics.qmd": {
+    "r-basics.html": "7e02e8dd"
+  },
+  "resource/style-guide.qmd": {
+    "style-guide.html": "857093b8"
+  },
+  "schedule.qmd": {
+    "schedule.html": "5ec98b85"
+  },
+  "syllabus.qmd": {
+    "syllabus.html": "d7e88745"
+  }
+}

@@ -1,0 +1,98 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!slides/"
+
+execute:
+  freeze: auto
+
+website:
+  title: "Quantitative Methods in Psychology"
+  description: "An intensive introduction to statistical reasoning in psychological research"
+  site-url: "https://seredes.github.io/quant-methods-psych"
+
+  page-navigation: true
+
+  navbar:
+    pinned: true
+    background: "#CF4446"
+    right:
+      - syllabus.qmd
+      - schedule.qmd
+      - text: "Content"
+        file: content/index.qmd
+      - text: "Assignments"
+        file: assignment/index.qmd
+      - text: "Resources"
+        file: resource/index.qmd
+
+  sidebar:
+    - title: "Content"
+      style: "docked"
+      search: false
+      background: light
+      contents:
+        - section: "Overview"
+          contents:
+            - content/index.qmd
+        - section: "Foundations"
+          contents:
+            - text: "1: Introduction to statistics"
+              file: content/01-content.qmd
+            - text: "2: Describing data"
+              file: content/02-content.qmd
+            - text: "3: Probability foundations"
+              file: content/03-content.qmd
+        - section: "Inference"
+          contents:
+            - text: "4: Sampling distributions"
+              file: content/04-content.qmd
+            - text: "5: Hypothesis testing"
+              file: content/05-content.qmd
+            - text: "6: t-tests"
+              file: content/06-content.qmd
+        - section: "Modeling"
+          contents:
+            - text: "7: ANOVA"
+              file: content/07-content.qmd
+            - text: "8: Correlation"
+              file: content/08-content.qmd
+            - text: "9: Regression"
+              file: content/09-content.qmd
+
+    - title: "Assignments"
+      contents:
+        - section: "Overview"
+          contents:
+            - assignment/index.qmd
+        - section: "Problem sets"
+          contents:
+            - text: "Problem set 1"
+              file: assignment/01-problem-set.qmd
+            - text: "Problem set 2"
+              file: assignment/02-problem-set.qmd
+            - text: "Problem set 3"
+              file: assignment/03-problem-set.qmd
+
+    - title: "Resources"
+      contents:
+        - section: "Resources"
+          contents:
+            - resource/index.qmd
+            - resource/r-basics.qmd
+            - resource/style-guide.qmd
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}})
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: true

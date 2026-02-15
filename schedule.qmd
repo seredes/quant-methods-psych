@@ -1,0 +1,20 @@
+---
+title: "Schedule"
+sidebar: false
+toc: false
+page-layout: full
+---
+
+Here is the roadmap for the semester. Each week has a **content** page with readings and slides and an **assignment** page with problem sets.
+
+| Week | Date | Topic | Content | Assignment |
+|------|------|-------|---------|------------|
+| 1 | TBD | Introduction to statistics | [{{< fa book-open-reader >}}](/content/01-content.qmd) | |
+| 2 | TBD | Describing data | [{{< fa book-open-reader >}}](/content/02-content.qmd) | |
+| 3 | TBD | Probability foundations | [{{< fa book-open-reader >}}](/content/03-content.qmd) | [{{< fa pen-ruler >}}](/assignment/01-problem-set.qmd) |
+| 4 | TBD | Sampling distributions | [{{< fa book-open-reader >}}](/content/04-content.qmd) | |
+| 5 | TBD | Hypothesis testing | [{{< fa book-open-reader >}}](/content/05-content.qmd) | |
+| 6 | TBD | t-tests | [{{< fa book-open-reader >}}](/content/06-content.qmd) | [{{< fa pen-ruler >}}](/assignment/02-problem-set.qmd) |
+| 7 | TBD | ANOVA | [{{< fa book-open-reader >}}](/content/07-content.qmd) | |
+| 8 | TBD | Correlation | [{{< fa book-open-reader >}}](/content/08-content.qmd) | |
+| 9 | TBD | Regression | [{{< fa book-open-reader >}}](/content/09-content.qmd) | [{{< fa pen-ruler >}}](/assignment/03-problem-set.qmd) |

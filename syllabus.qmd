@@ -1,0 +1,50 @@
+---
+title: "Syllabus"
+---
+
+## Course description
+
+An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.
+
+## Learning objectives
+
+By the end of this course, you will be able to:
+
+1. Understand the logic of statistical inference and hypothesis testing
+2. Select appropriate statistical analyses for different research designs
+3. Conduct statistical tests using R
+4. Interpret and report results in APA format
+5. Critically evaluate statistical claims in psychological research
+
+## Course materials
+
+### Required textbook
+
+TBD
+
+### Software
+
+We will use [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for all statistical analyses. Both are free.
+
+## Grading
+
+| Component | Weight |
+|-----------|--------|
+| Problem sets | 40% |
+| Midterm exam | 25% |
+| Final exam | 25% |
+| Participation | 10% |
+
+## Course policies
+
+### Late work
+
+TBD
+
+### Academic integrity
+
+TBD
+
+### Accommodations
+
+TBD

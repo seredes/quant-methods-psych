@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+$red:     #CF4446 !default;
+$orange:  #EE6A24 !default;
+
+$link-color: $orange !default;
+$link-hover-color: $red !default;
+
+/*-- scss:rules --*/
+
+.course-details {
+  margin-bottom: 2em;
+}
+
+.home {
+  .quarto-title-banner {
+    margin-bottom: 0;
+  }
+}
