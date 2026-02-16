@@ -2,7 +2,7 @@ project:
   type: website
   render:
     - "*.qmd"
-    - "!slides/"
+    - "slides/*.qmd"
 
 execute:
   freeze: auto
@@ -21,7 +21,7 @@ website:
       - syllabus.qmd
       - schedule.qmd
       - text: "Content"
-        file: content/index.qmd
+        file: content/01-content.qmd
       - text: "Assignments"
         file: assignment/index.qmd
       - text: "Resources"
@@ -33,33 +33,24 @@ website:
       search: false
       background: light
       contents:
-        - section: "Overview"
-          contents:
-            - content/index.qmd
-        - section: "Foundations"
-          contents:
-            - text: "1: Introduction to statistics"
-              file: content/01-content.qmd
-            - text: "2: Describing data"
-              file: content/02-content.qmd
-            - text: "3: Probability foundations"
-              file: content/03-content.qmd
-        - section: "Inference"
-          contents:
-            - text: "4: Sampling distributions"
-              file: content/04-content.qmd
-            - text: "5: Hypothesis testing"
-              file: content/05-content.qmd
-            - text: "6: t-tests"
-              file: content/06-content.qmd
-        - section: "Modeling"
-          contents:
-            - text: "7: ANOVA"
-              file: content/07-content.qmd
-            - text: "8: Correlation"
-              file: content/08-content.qmd
-            - text: "9: Regression"
-              file: content/09-content.qmd
+        - text: "1: Introduction to statistics"
+          file: content/01-content.qmd
+        - text: "2: Describing data"
+          file: content/02-content.qmd
+        - text: "3: Probability foundations"
+          file: content/03-content.qmd
+        - text: "4: Sampling distributions"
+          file: content/04-content.qmd
+        - text: "5: Hypothesis testing"
+          file: content/05-content.qmd
+        - text: "6: t-tests"
+          file: content/06-content.qmd
+        - text: "7: ANOVA"
+          file: content/07-content.qmd
+        - text: "8: Correlation"
+          file: content/08-content.qmd
+        - text: "9: Regression"
+          file: content/09-content.qmd
 
     - title: "Assignments"
       contents:

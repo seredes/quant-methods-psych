@@ -1,0 +1,10 @@
+.reveal section img {
+  max-height: 32vh;
+  object-fit: contain;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.reveal section .columns {
+  overflow: hidden;
+}
