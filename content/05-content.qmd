@@ -1,12 +1,12 @@
 ---
-title: "Hypothesis testing"
-date: "2026-09-28"
+title: "Lecture 5"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture5.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture5.pdf#pagemode=none"></iframe>
+:::

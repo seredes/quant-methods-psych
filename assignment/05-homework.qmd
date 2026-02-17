@@ -1,0 +1,6 @@
+---
+title: "Homework 5"
+toc: false
+---
+
+[{{< fa file-pdf >}} Download Homework 5 (PDF)](/files/homework/HW5_20.pdf){.btn .btn-primary .btn-sm target="_blank"}

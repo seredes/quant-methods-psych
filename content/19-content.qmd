@@ -1,0 +1,12 @@
+---
+title: "Lecture 19"
+toc: false
+---
+
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture21.pdf){target="_blank"}
+:::
+
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture21.pdf#pagemode=none"></iframe>
+:::

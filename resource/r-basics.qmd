@@ -7,6 +7,18 @@ title: "R basics"
 1. Install R from [CRAN](https://cran.r-project.org/)
 2. Install RStudio from [Posit](https://posit.co/download/rstudio-desktop/)
 
-## Getting started
+## R code files
 
-TBD
+Download the R scripts used in this course:
+
+- [{{< fa file-code >}} R1.R](/files/r-code/R1.R){target="_blank"}
+- [{{< fa file-code >}} R2.R](/files/r-code/R2.R){target="_blank"}
+- [{{< fa file-code >}} R3.R](/files/r-code/R3.R){target="_blank"}
+- [{{< fa file-code >}} Replication.R](/files/r-code/Replication.R){target="_blank"}
+
+## Datasets
+
+Download the datasets used in this course:
+
+- [{{< fa file-csv >}} parenthood.csv](/files/data/parenthood.csv){target="_blank"}
+- [{{< fa file-csv >}} pop1.csv](/files/data/pop1.csv){target="_blank"}

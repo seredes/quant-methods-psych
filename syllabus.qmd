@@ -4,7 +4,15 @@ title: "Syllabus"
 
 ## Course description
 
-An intensive introduction to statistical reasoning in psychological research. This course connects statistical procedures to their historical development and contemporary applications. Students develop proficiency in selecting appropriate analyses, conducting tests in R, and interpreting results meaningfully. Through a partially flipped classroom approach combining interactive lectures with hands-on problem-solving, students build both technical competence and confidence in their analytical skills.
+This course is an algebra-based introduction to statistics. You already know all the math you need to succeed -- nothing more than addition, subtraction, multiplication, and division.
+
+While the mathematical tools will be nothing new, some of the statistical concepts may be novel or a bit counterintuitive. It will take some time for those concepts to sink in. That's normal, so do not worry. Just do your best to keep up with the readings and assignments, ask questions, and at some point all the pieces of the puzzle will fall into place.
+
+The course covers the foundational principles of classical statistics (probability, sampling, regression), the most common hypothesis testing techniques (t-tests, analysis of variance, etc.), and serves as an introduction to Bayesian statistics and the R statistical software. Because this is not a programming class, all the R code needed for exercises will be provided.
+
+The readings are assigned ahead of class. I recommend that you take some time to read the physical book on your own, highlight, take notes, and digest the material. If a passage is not clear, go back to it later and read it again.
+
+If there is one take-home message from this class, it is that statistics is not "those formulas in the book" but a subject matter that is used and debated every day within our society and that affects nearly every aspect of our life.
 
 ## Learning objectives
 
@@ -15,36 +23,77 @@ By the end of this course, you will be able to:
 3. Conduct statistical tests using R
 4. Interpret and report results in APA format
 5. Critically evaluate statistical claims in psychological research
+6. Formulate, evaluate, and communicate conclusions and inferences from quantitative information
+7. Apply effective and efficient mathematical or other formal processes to reason and solve problems
 
 ## Course materials
 
 ### Required textbook
 
-TBD
+De Veaux, R. D., Velleman, P. F., & Bock, D. E. (2016). *Stats: Data and Models* (4th ed.). Pearson. ISBN: 978-0321986498.
+
+The lectures are based on this book. The text covers all the principles of classical statistics from a general point of view. The 3rd edition is also acceptable.
+
+### Recommended textbook
+
+Lockhart, R. S. (1997). *Introduction to Statistics and Data Analysis for the Behavioral Sciences* (1st ed.). W.H. Freeman. ISBN: 978-0716729747.
+
+An excellent book that covers all the principles of classical statistics in a more conceptual way, in the context of psychological sciences.
 
 ### Software
 
-We will use [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for all statistical analyses. Both are free.
+We will use [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) for all statistical analyses. Both are free. See the [R basics](/resource/r-basics.qmd) page for installation instructions and course R code files.
 
 ## Grading
 
 | Component | Weight |
 |-----------|--------|
-| Problem sets | 40% |
-| Midterm exam | 25% |
-| Final exam | 25% |
-| Participation | 10% |
+| Homework | 25% |
+| Attendance & participation | 20% |
+| Midterm exam | 20% |
+| Final exam | 30% |
+| Extra credit | 5% |
 
 ## Course policies
 
+### Attendance and participation
+
+Attendance is mandatory and active participation is required. Students are expected to actively participate during class by asking questions, giving constructive contributions when called on, and collaborating with classmates in solving exercises.
+
+### Homework
+
+There will be different types of assignments:
+
+- **Readings** are due before class.
+- **Homework problem sets** are due before class on the assigned date.
+- **R assignments** are due once a week.
+
+Collaboration in solving the homework assignments is allowed and encouraged.
+
 ### Late work
 
-TBD
+Late assignments are not accepted unless in the case of a serious illness or family emergency. Arrangements must be made **before** the homework due date. Late homework cannot be accepted for any reason once the answer key is posted, usually one day after the assignment deadline.
+
+### Exams
+
+There will be one midterm and one final exam. The final is non-cumulative. A calculator and a cheat sheet are allowed for both the midterm and the final. The exams will have a conceptual part (definitions, principles, etc.) and a computational part. Except for the actual numbers, the structure and the process involved in solving computational problems will be identical to those used in class.
+
+Make-up exams may be scheduled in case of a serious illness or family emergency. Arrangements must be made **before** your exam date.
+
+### Special accommodations
+
+Students requesting special accommodations should contact the Office of Disability Services and follow the procedures outlined by their institution.
 
 ### Academic integrity
 
-TBD
+All students are expected to uphold the highest standards of academic integrity. Any form of academic dishonesty, including but not limited to plagiarism, cheating on exams, and unauthorized collaboration, will be handled in accordance with the university's academic integrity policy.
 
-### Accommodations
+### Equity
 
-TBD
+Academic and professional excellence can flourish only when each member of our community is assured an atmosphere of mutual respect. All members of the university community are responsible for the maintenance of an academic and work environment in which people are free to learn and work without fear of discrimination or discriminatory harassment.
+
+## How to succeed in this class
+
+Pay attention to details. Do not miss lectures or assignments. Always treat your work as an opportunity to improve yourself and your performance. Take advantage of extra credit opportunities. Collaborate with other students and do not hesitate to ask for help.
+
+Above all, do not disappear -- "80% of success is showing up." Stay engaged.

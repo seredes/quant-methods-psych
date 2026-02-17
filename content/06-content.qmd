@@ -1,12 +1,12 @@
 ---
-title: "t-tests"
-date: "2026-10-05"
+title: "Lecture 6"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture6.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture6.pdf#pagemode=none"></iframe>
+:::

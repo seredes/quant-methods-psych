@@ -5,16 +5,30 @@ toc: false
 page-layout: full
 ---
 
-Here is the roadmap for the semester. Each week has a **content** page with readings and slides and an **assignment** page with problem sets.
+Here is the lecture schedule for the course. Each lecture has slides viewable as embedded PDFs.
 
-| Week | Date | Topic | Content | Assignment |
-|------|------|-------|---------|------------|
-| 1 | TBD | Introduction to statistics | [{{< fa book-open-reader >}}](/content/01-content.qmd) | |
-| 2 | TBD | Describing data | [{{< fa book-open-reader >}}](/content/02-content.qmd) | |
-| 3 | TBD | Probability foundations | [{{< fa book-open-reader >}}](/content/03-content.qmd) | [{{< fa pen-ruler >}}](/assignment/01-problem-set.qmd) |
-| 4 | TBD | Sampling distributions | [{{< fa book-open-reader >}}](/content/04-content.qmd) | |
-| 5 | TBD | Hypothesis testing | [{{< fa book-open-reader >}}](/content/05-content.qmd) | |
-| 6 | TBD | t-tests | [{{< fa book-open-reader >}}](/content/06-content.qmd) | [{{< fa pen-ruler >}}](/assignment/02-problem-set.qmd) |
-| 7 | TBD | ANOVA | [{{< fa book-open-reader >}}](/content/07-content.qmd) | |
-| 8 | TBD | Correlation | [{{< fa book-open-reader >}}](/content/08-content.qmd) | |
-| 9 | TBD | Regression | [{{< fa book-open-reader >}}](/content/09-content.qmd) | [{{< fa pen-ruler >}}](/assignment/03-problem-set.qmd) |
+| Lecture | Date | Slides | Homework |
+|---------|------|--------|----------|
+| 1 | 7/7/2020 | [{{< fa file-pdf >}}](/content/01-content.qmd) | |
+| 2 | 7/7/2020 | [{{< fa file-pdf >}}](/content/02-content.qmd) | |
+| 3 | 7/8/2020 | [{{< fa file-pdf >}}](/content/03-content.qmd) | |
+| 4 | 7/9/2020 | [{{< fa file-pdf >}}](/content/04-content.qmd) | [HW 1](/assignment/01-homework.qmd) |
+| 5 | 7/13/2020 | [{{< fa file-pdf >}}](/content/05-content.qmd) | |
+| 6 | 7/14/2020 | [{{< fa file-pdf >}}](/content/06-content.qmd) | [HW 2](/assignment/02-homework.qmd) |
+| 7 | 7/15/2020 | [{{< fa file-pdf >}}](/content/07-content.qmd) | |
+| 8 | 7/16/2020 | [{{< fa file-pdf >}}](/content/08-content.qmd) | [HW 3](/assignment/03-homework.qmd) |
+| 9 | 7/20/2020 | [{{< fa file-pdf >}}](/content/09-content.qmd) | |
+| 10 | 7/21/2020 | [{{< fa file-pdf >}}](/content/10-content.qmd) | [HW 4](/assignment/04-homework.qmd) |
+| *Review* | *7/22/2020* | *[Midterm Review](/content/10-content.qmd)* | |
+| | | **Midterm Exam** | [{{< fa file-pdf >}}](/assignment/midterm.qmd) |
+| 11 | 7/27/2020 | [{{< fa file-pdf >}}](/content/11-content.qmd) | |
+| 12 | 7/28/2020 | [{{< fa file-pdf >}}](/content/12-content.qmd) | [HW 5](/assignment/05-homework.qmd) |
+| 13 | 7/29/2020 | [{{< fa file-pdf >}}](/content/13-content.qmd) | |
+| 14 | 7/30/2020 | [{{< fa file-pdf >}}](/content/14-content.qmd) | [HW 6](/assignment/06-homework.qmd) |
+| 15 | 8/3/2020 | [{{< fa file-pdf >}}](/content/15-content.qmd) | |
+| 16 | 8/4/2020 | [{{< fa file-pdf >}}](/content/16-content.qmd) | [HW 7](/assignment/07-homework.qmd) |
+| 17 | 8/5/2020 | [{{< fa file-pdf >}}](/content/17-content.qmd) | |
+| 18 | 8/6/2020 | [{{< fa file-pdf >}}](/content/18-content.qmd) | [HW 8](/assignment/08-homework.qmd) |
+| 19 | 8/10/2020 | [{{< fa file-pdf >}}](/content/19-content.qmd) | |
+| 20 | 8/11/2020 | [{{< fa file-pdf >}}](/content/20-content.qmd) | [HW 9](/assignment/09-homework.qmd) |
+| | | **Final Exam** | [{{< fa file-pdf >}}](/assignment/final.qmd) |

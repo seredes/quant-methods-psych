@@ -1,0 +1,10 @@
+---
+title: "Final Exam"
+toc: false
+---
+
+[{{< fa file-pdf >}} Download Final Exam (PDF)](/files/exams/Final_QM20.pdf){.btn .btn-primary .btn-sm target="_blank"}
+
+[{{< fa file-pdf >}} Download Practice Exam (PDF)](/files/exams/Final_practice_exam_QM20.pdf){.btn .btn-primary .btn-sm target="_blank"}
+
+[{{< fa file-word >}} Download Final Solutions (DOCX)](/files/exams/Final_sol_QM20.docx){.btn .btn-primary .btn-sm target="_blank"}

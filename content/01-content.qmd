@@ -1,16 +1,12 @@
 ---
-title: "Introduction to statistics"
-subtitle: "Quantitative Methods in Psychology"
-date: "2026-08-31"
+title: "Lecture 1"
 toc: false
 ---
 
-This lecture introduces the course and covers the definition of statistics, a brief history of the field, data and variables, and categorical data displays.
-
 ::: {.slide-link-bar}
-[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../slides/01-slides.html){target="_blank"}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture1.pdf){target="_blank"}
 :::
 
 ::: {.slide-container}
-<iframe class="slide-frame" src="../slides/01-slides.html"></iframe>
+<iframe class="slide-frame" src="../files/slides/Lecture1.pdf#pagemode=none"></iframe>
 :::

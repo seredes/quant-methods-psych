@@ -1,12 +1,12 @@
 ---
-title: "ANOVA"
-date: "2026-10-12"
+title: "Lecture 7"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture7.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture7.pdf#pagemode=none"></iframe>
+:::

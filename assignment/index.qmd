@@ -2,17 +2,21 @@
 title: "Assignments overview"
 ---
 
-## Problem sets
+## Homework
 
-Problem sets are due by 11:59 PM on the date listed in the [schedule](/schedule.qmd). Submit your work as an R Markdown or Quarto document.
-
-| Assignment | Due date |
-|------------|----------|
-| [Problem set 1](/assignment/01-problem-set.qmd) | TBD |
-| [Problem set 2](/assignment/02-problem-set.qmd) | TBD |
-| [Problem set 3](/assignment/03-problem-set.qmd) | TBD |
+| Assignment | PDF |
+|------------|-----|
+| [Homework 1](/assignment/01-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW1_20.pdf) |
+| [Homework 2](/assignment/02-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW2_20.pdf) |
+| [Homework 3](/assignment/03-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW3_20.pdf) |
+| [Homework 4](/assignment/04-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW4_20.pdf) |
+| [Homework 5](/assignment/05-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW5_20.pdf) |
+| [Homework 6](/assignment/06-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW6_20.pdf) |
+| [Homework 7](/assignment/07-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW7_20.pdf) |
+| [Homework 8](/assignment/08-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW8_20.pdf) |
+| [Homework 9](/assignment/09-homework.qmd) | [{{< fa file-pdf >}}](/files/homework/HW9_20.pdf) |
 
 ## Exams
 
-- **Midterm exam**: TBD
-- **Final exam**: TBD
+- [Midterm Exam](/assignment/midterm.qmd)
+- [Final Exam](/assignment/final.qmd)

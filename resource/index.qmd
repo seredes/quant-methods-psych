@@ -4,5 +4,5 @@ title: "Resources overview"
 
 These pages contain helpful resources and guides for the course.
 
-- [R basics](/resource/r-basics.qmd): Getting started with R and RStudio
+- [R basics](/resource/r-basics.qmd): Getting started with R and RStudio, plus download links for R code files and datasets
 - [Style guide](/resource/style-guide.qmd): How to write clean, readable R code

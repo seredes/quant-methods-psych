@@ -1,12 +1,12 @@
 ---
-title: "Regression"
-date: "2026-10-26"
+title: "Lecture 9"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture9.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture9.pdf#pagemode=none"></iframe>
+:::

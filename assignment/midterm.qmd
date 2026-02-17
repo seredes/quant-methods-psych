@@ -1,0 +1,6 @@
+---
+title: "Midterm Exam"
+toc: false
+---
+
+[{{< fa file-pdf >}} Download Midterm Exam (PDF)](/files/exams/Midterm_QM20.pdf){.btn .btn-primary .btn-sm target="_blank"}

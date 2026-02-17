@@ -1,12 +1,12 @@
 ---
-title: "Probability foundations"
-date: "2026-09-14"
+title: "Lecture 3"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture3.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture3.pdf#pagemode=none"></iframe>
+:::

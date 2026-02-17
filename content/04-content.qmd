@@ -1,12 +1,12 @@
 ---
-title: "Sampling distributions"
-date: "2026-09-21"
+title: "Lecture 4"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture4.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture4.pdf#pagemode=none"></iframe>
+:::

@@ -1,12 +1,12 @@
 ---
-title: "Correlation"
-date: "2026-10-19"
+title: "Lecture 8"
+toc: false
 ---
 
-## Readings
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture8.pdf){target="_blank"}
+:::
 
-TBD
-
-## Slides
-
-TBD
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture8.pdf#pagemode=none"></iframe>
+:::

@@ -1,0 +1,18 @@
+---
+title: "Lecture 10"
+toc: false
+---
+
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture10.pdf){target="_blank"}
+:::
+
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture10.pdf#pagemode=none"></iframe>
+:::
+
+---
+
+### Midterm Review
+
+[{{< fa file-pdf >}} Download Midterm Review slides (PDF)](/files/slides/Review2_QM20.pdf){.btn .btn-primary .btn-sm target="_blank"}

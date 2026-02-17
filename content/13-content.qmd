@@ -1,0 +1,12 @@
+---
+title: "Lecture 13"
+toc: false
+---
+
+::: {.slide-link-bar}
+[{{< fa arrow-up-right-from-square >}} Open slides in full screen](../files/slides/Lecture15.pdf){target="_blank"}
+:::
+
+::: {.slide-container}
+<iframe class="slide-frame" src="../files/slides/Lecture15.pdf#pagemode=none"></iframe>
+:::
